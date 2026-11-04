@@ -1,0 +1,2 @@
+# idletrash
+Idle Trash apptext
